@@ -3,6 +3,8 @@
 ## Problem Statement
 Organizations often need to compare internal Enterprise Resource Planning (ERP) records with external bank statements. Manual reconciliation is time‑consuming and error‑prone. The goal is to automatically reconcile transactions between an ERP Excel file and a Bank Statement PDF and surface discrepancies such as missing entries, duplicates, or amount mismatches.
 
+More detailes are provided here in PDF doc :  [Overview](https://github.com/kdats/Agentic_workflow_for_ERP_vs_bankstatements/blob/main/assignment_brief_updated%20(1)%20(1).pdf)
+
 ## Objective
 Design an end‑to‑end workflow powered by autonomous AI agents that:
 - Read ERP data from Excel and bank data from PDF.

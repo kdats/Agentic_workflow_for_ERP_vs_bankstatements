@@ -1,0 +1,7 @@
+{
+  "narrative": "Reconciled 165 of 200 ERP invoices (82.5%). Discrepancies (non-overlapping): MissingInBank=20, BankOnly=20, AmountMismatch=7. Duplicate groups=8. All figures derived from output tables.",
+  "trace": {
+    "model": "gemini-2.5-pro",
+    "rate": 82.5
+  }
+}
